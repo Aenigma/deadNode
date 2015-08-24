@@ -1,0 +1,18 @@
+{
+  "name": "deadNode",
+  "version": "0.0.0",
+  "description": "Rewrite of deadBot IRC bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aenigma/deadNode"
+  },
+  "author": "Kevin Raoofi",
+  "license": "apache",
+  "bugs": {
+    "url": "https://github.com/Aenigma/deadNode/issues"
+  }
+}
