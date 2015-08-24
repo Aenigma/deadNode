@@ -1,0 +1,8 @@
+{
+  "server": "irc.myserver.com",
+  "nick": "myNick",
+  "channels": [
+    "#channel1",
+    "#channel2"
+  ]
+}

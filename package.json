@@ -14,5 +14,8 @@
   "license": "apache",
   "bugs": {
     "url": "https://github.com/Aenigma/deadNode/issues"
+  },
+  "dependencies": {
+    "irc": "^0.3.12"
   }
 }
