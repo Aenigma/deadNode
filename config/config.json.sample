@@ -1,8 +1,25 @@
 {
   "server": "irc.myserver.com",
   "nick": "myNick",
-  "channels": [
-    "#channel1",
-    "#channel2"
-  ]
+  "options": {
+    "userName": "nodebot",
+    "realName": "nodeJS IRC client",
+    "port": 6667,
+    "localAddress": null,
+    "debug": false,
+    "showErrors": false,
+    "autoRejoin": false,
+    "autoConnect": true,
+    "channels": ["#channel1", "#channel2"],
+    "secure": false,
+    "selfSigned": false,
+    "certExpired": false,
+    "floodProtection": false,
+    "floodProtectionDelay": 1000,
+    "sasl": false,
+    "stripColors": false,
+    "channelPrefixes": "&#",
+    "messageSplit": 512,
+    "encoding": ""
+  }
 }
