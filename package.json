@@ -12,6 +12,7 @@
   },
   "author": "Kevin Raoofi",
   "license": "apache",
+  "private": true,
   "bugs": {
     "url": "https://github.com/Aenigma/deadNode/issues"
   },
